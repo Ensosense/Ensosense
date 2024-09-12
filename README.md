@@ -10,7 +10,7 @@ I'm a **backend developer** with a passion for **cloud solutions** and **microse
 - Docker 🐳
 
 ### 👨‍💻 What I'm working on:
-I'm currently building an **e-commerce platform** to dive deeper into microservices and cloud-based solutions. 🌟 Every day, I’m leveling up my skills and seeing just how many new things I can mess up before I get it right! 💪😄
+I'm currently building an **e-commerce platform** to dive deeper into microservices and cloud-based solutions. 🌟 Every day I’m leveling up my skills and seeing just how many new things I can mess up before I get it right! 💪😄
 
 ### 📚 In my free time:
 - Diving into personal coding projects 💻
