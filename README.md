@@ -22,4 +22,4 @@ I'm currently building an **e-commerce platform** to dive deeper into microservi
 Ping me via ensosense@gmail.com or connect with me on https://www.linkedin.com/in/lilia-bekuzina-a703b5217/ ✉️
 
 
-Feel free to check out my projects or connect with me here on GitHub! 🤝
+Feel free to check out my projects or connect with me here on GitHub! 🤝 
