@@ -5,7 +5,7 @@ I'm a **backend developer** with a passion for **cloud solutions** and **microse
 ### 🔧 Technologies I work with:
 - Java ☕
 - Spring Boot 🌱
-- AWS (DynamoDB, ECS with Fargate) ☁️
+- AWS (DynamoDB, ECS with Fargate, Cognito, ALB) ☁️
 - CI/CD with GitHub Actions 🔄
 - Docker 🐳
 
